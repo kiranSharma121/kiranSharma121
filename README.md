@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning FrontEnd as well as BackEnd .
 - 🔭 I’m currently working on React Js and Golang .
-- 📫 How to reach me: https://www.linkedin.com/in/kiran-sharma-ba6a00254/
-- 😄 Pronouns: he/him
+
   <br>
 
 ## 🛠️ My Skills
